@@ -1,11 +1,12 @@
 streamlit
 sentence-transformers==2.2.2
-spacy
+spacy==3.7.2
 pdfplumber
 python-docx
 fuzzywuzzy[speedup]
 tqdm
 nltk
 pandas
+
 
 
