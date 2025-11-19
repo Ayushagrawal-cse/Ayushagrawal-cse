@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+spacy
+pdfplumber
+python-docx
+fuzzywuzzy[speedup]
+tqdm
+nltk
+pandas
