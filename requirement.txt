@@ -1,5 +1,5 @@
 streamlit
-sentence-transformers
+sentence-transformers==2.2.2
 spacy
 pdfplumber
 python-docx
@@ -7,3 +7,4 @@ fuzzywuzzy[speedup]
 tqdm
 nltk
 pandas
+
