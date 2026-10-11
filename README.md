@@ -229,18 +229,6 @@ I've worked on areas including:
 
 I'm especially interested in understanding how scientific Python libraries are **designed, tested, maintained and evolved**.
 
-### Long-Term Open Source Goal
-
-```text
-Contributor
-     ↓
-Strong Contributor
-     ↓
-Maintainer-level Contributor
-     ↓
-Potential Core Developer
-```
-
 ---
 
 # 📚 Learning Journey
