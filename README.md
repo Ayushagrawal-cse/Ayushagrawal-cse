@@ -34,34 +34,6 @@ I'm a **Computer Science Engineering student** interested in building practical 
 
 ---
 
-## 🧠 What I'm Currently Exploring
-
-```text
-Machine Learning
-      ↓
-Deep Learning
-      ↓
-Generative AI
-      ↓
-LLMs + RAG
-      ↓
-LangChain + LangGraph
-      ↓
-Agentic AI
-      ↓
-MCP
-      ↓
-FastAPI + AI Backend Engineering
-      ↓
-Production AI Systems
-      ↓
-Open Source + Scientific Python
-```
-
-My goal is not just to use AI APIs, but to understand how **reliable, maintainable and production-oriented AI systems are designed**.
-
----
-
 # 🛠️ Tech Stack
 
 ## 👨‍💻 Programming Languages
