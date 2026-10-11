@@ -269,20 +269,6 @@ I'm currently focusing on building depth across several connected areas:
 
 ---
 
-# 🎯 2026 Goals
-
-* [ ] Strengthen Machine Learning fundamentals
-* [ ] Improve Deep Learning fundamentals
-* [ ] Build production-oriented GenAI applications
-* [✓] Learn Agentic AI deeply
-* [ ] Build MCP-based AI systems
-* [ ] Strengthen FastAPI and backend engineering
-* [ ] Build more industry-oriented AI projects
-* [✓] Make meaningful open-source contributions
-* [✓] Improve DSA and problem-solving
-* [✓] Develop stronger software engineering fundamentals
-
----
 
 <div align="center">
 
