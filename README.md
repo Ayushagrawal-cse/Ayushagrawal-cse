@@ -30,7 +30,7 @@ I'm a **Computer Science Engineering student** interested in building practical 
 * 🌐 Contributing to **open-source projects**
 * 🛠️ Interested in combining **AI + software engineering + real-world problems**
 * 📚 Continuously improving my understanding of **ML systems and backend engineering**
-* 🚀 Working toward becoming a strong **Open Source Contributor → Maintainer → Core Developer**
+* 🚀 Working toward becoming a strong **Open Source Contributor**
 
 ---
 
