@@ -225,7 +225,7 @@ I'm currently focusing on building depth across several connected areas:
 
 ### Open Source
 
-`Git` → `Issues` → `PRs` → `Testing` → `Code Review` → `Architecture` → `Maintainer Skills`
+`Git` → `Issues` → `PRs`
 
 ---
 
